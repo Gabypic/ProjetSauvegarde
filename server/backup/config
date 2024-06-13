@@ -1,0 +1,20 @@
+[repository]
+version = 1
+segments_per_dir = 1000
+max_segment_size = 524288000
+append_only = 0
+storage_quota = 0
+additional_free_space = 0
+id = c761a7f208fee9d7b68b785bfdc4c13b5579d22ecfaca4b71715e621f62de172
+key = hqlhbGdvcml0aG2mc2hhMjU2pGRhdGHaAZ6dCjj1QXqLGG64yGjZSeCScf96UBUsD6vqml
+	2eTV7p/4CFEZKarRB1v7T+yRsZ8rt7yE8No3rZ9Z2mJVeZDYcAiWyZPUZnHIqJEf7iSyZx
+	uKftsXDZo62SKB/fFNe05hmAsZrodhRi43NJNWCmYAUB0Nwwya50vkrpJ6WoEMWSyYsHkn
+	7p2B9PDR8rfqAv8R1aiw06OIU381SNRzaHM6hFBekWKYDJuQ47ObScj1WBwCjjIY+lGbjT
+	HZnjnzS9+roU/ihJ7vgozKfGJUmIwwY/EYJghHiE0wvMNknWlhFo1u2TqZgMsWAFanCRPX
+	jSCE/JgBTPTMUpE64AK4hVyOtbf9kfeuYsloAubeaqQ4wl76RHTQ3L8Mr84k2L7qHg/tt5
+	dbzuqc4XZP8l+c70Cv2BWyw6TFzaniZGURRXFstkcV+ervDVTfA8qWfbEiLFcL3w1CNTLg
+	PfjKXuQsBtQkB/JVO2+G+B3pGYNS7MgQ19ylwhYh2zsbYCzTOlEE5bMSteoYz0FIqsfY9j
+	1b6m317K5F9A3VzUadulUT/TtcykaGFzaNoAINTiJs+XTcjbIPCjvNrG2PvOt7j02r6ZHP
+	2X7x9eychqqml0ZXJhdGlvbnPOAAGGoKRzYWx02gAgFcDfpyGUmByg0YDlz4bzWvjChPhJ
+	d+8NfaumbbfBzlGndmVyc2lvbgE=
+
